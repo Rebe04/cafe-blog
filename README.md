@@ -45,5 +45,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For questions or feedback, please contact me:
 
 - **Email**: e.benitez@estebanbenitez.com
-- **GitHub**: [yourusername](https://github.com/Rebe04)
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/estebanbenitez/)
+- **GitHub**: [Rebe04](https://github.com/Rebe04)
+- **LinkedIn**: [Esteban Benitez](https://www.linkedin.com/in/estebanbenitez/)
